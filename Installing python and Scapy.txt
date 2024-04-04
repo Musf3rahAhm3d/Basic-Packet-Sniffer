@@ -1,0 +1,5 @@
+To run the script you will need both python and scapy
+Install Python: 
+	Ensure Python is installed on your system. You can download it from python.org or use your system's package manager.
+Install Scapy:
+	 Install Scapy using pip, Python's package installer. Open a terminal and run: pip install scapy
